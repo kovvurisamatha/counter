@@ -2,6 +2,7 @@
 .bg-container {
   background-color: '#f1f5f8';
   display: flex;
+  flex-direction:column;
   align-items: center;
   justify-content: center;
 }
@@ -11,12 +12,15 @@
 .head {
   font-family: 'roboto';
   font-size: 36px;
+  padding: 5px;
 }
-.para{
-  color:#2d3a35;
-  font-family:"roboto";
+.para {
+  color: #2d3a35;
+  font-family: 'roboto';
+  padding: 5px;
 }
-.butt{
-  background-color:#007bff;
-  color:white;
+.butt {
+  background-color: #007bff;
+  color: white;
+  margin: 5px;
 }
