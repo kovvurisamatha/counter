@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: '#f1f5f8';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.spam {
+  color: #c20a72;
+}
+.head {
+  font-family: 'roboto';
+  font-size: 36px;
+}
+.para{
+  color:#2d3a35;
+  font-family:"roboto";
+}
+.butt{
+  background-color:#007bff;
+  color:white;
+}
